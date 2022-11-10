@@ -1,0 +1,11 @@
+C:\Users\slgwt\source\repos\Arcanoid_1_2\bin\Debug\Arcanoid_1_2.exe.config
+C:\Users\slgwt\source\repos\Arcanoid_1_2\bin\Debug\Arcanoid_1_2.exe
+C:\Users\slgwt\source\repos\Arcanoid_1_2\bin\Debug\Arcanoid_1_2.pdb
+C:\Users\slgwt\source\repos\Arcanoid_1_2\obj\Debug\Arcanoid_1_2.csproj.AssemblyReference.cache
+C:\Users\slgwt\source\repos\Arcanoid_1_2\obj\Debug\Arcanoid_1_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\slgwt\source\repos\Arcanoid_1_2\obj\Debug\Arcanoid_1_2.Form1.resources
+C:\Users\slgwt\source\repos\Arcanoid_1_2\obj\Debug\Arcanoid_1_2.Properties.Resources.resources
+C:\Users\slgwt\source\repos\Arcanoid_1_2\obj\Debug\Arcanoid_1_2.csproj.GenerateResource.cache
+C:\Users\slgwt\source\repos\Arcanoid_1_2\obj\Debug\Arcanoid_1_2.csproj.CoreCompileInputs.cache
+C:\Users\slgwt\source\repos\Arcanoid_1_2\obj\Debug\Arcanoid_1_2.exe
+C:\Users\slgwt\source\repos\Arcanoid_1_2\obj\Debug\Arcanoid_1_2.pdb
